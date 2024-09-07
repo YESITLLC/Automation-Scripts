@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://download.zerotier.com/dist/ZeroTier%20One.msi?_gl=1*11ov20o*_up*MQ..*_ga*NzA4NzAxMTc4LjE3MjE2ODI5MTc.*_ga_NX38HPVY1Z*MTcyMTY4MjkxNS4xLjAuMTcyMTY4MjkxNS4wLjAuMA..*_ga_6TEJNMZS6N*MTcyMTY4MjkxNS4xLjAuMTcyMTY4MjkxNS4wLjAuMA.." -OutFile "C:\YES\ZeroTier One.msi"
